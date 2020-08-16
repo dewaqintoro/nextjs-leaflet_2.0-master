@@ -11,7 +11,7 @@ export default () => (
   <React.Fragment>
     <Head />
     <div className={style.wrapper}>
-      <h1>Leaflet 2.0</h1>
+      <h1>dew</h1>
       <Map />
     </div>
   </React.Fragment>
